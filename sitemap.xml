@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://taf.fyi/cs/db/mini-oceanbase/</loc>
+    
+    <lastmod>2025-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://taf.fyi/about/</loc>
     
-    <lastmod>2025-01-14</lastmod>
+    <lastmod>2025-01-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -211,7 +220,7 @@
 
   <url>
     <loc>https://taf.fyi/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,42 +228,42 @@
   
   <url>
     <loc>https://taf.fyi/tags/db/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/tags/DevOps/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/tags/ctf/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/tags/Linux/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/tags/%E5%AF%86%E7%A0%81%E5%AD%A6/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -263,70 +272,70 @@
   
   <url>
     <loc>https://taf.fyi/categories/ACGN/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/categories/cs/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://taf.fyi/categories/cs/pve/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://taf.fyi/categories/cs/db/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://taf.fyi/categories/cs/ctf/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://taf.fyi/categories/cs/devops/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/categories/cs/raspberrypi/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://taf.fyi/categories/cs/db/</loc>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/categories/cs/linux/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://taf.fyi/categories/cs/ctf/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://taf.fyi/categories/cs/pve/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://taf.fyi/categories/cs/devops/</loc>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/categories/math/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://taf.fyi/categories/math/cryptography/</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
